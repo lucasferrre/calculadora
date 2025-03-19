@@ -1,6 +1,4 @@
-let numero1 = parseInt(prompt("Digite o primeiro número"))
-let numero2 = parseInt(prompt("Digite o primeiro número"))
+let num1;
+let num2;
 
-let divisao = numero1/numero2;
-
-console.log(divisao)
+console.log(`O resultado da divisao é ${num1}/${num2}`)
